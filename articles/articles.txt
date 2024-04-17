@@ -1,1 +1,17 @@
-
+1. Shityakov, S. and T. Dandekar (2010). "Lead expansion and virtual screening of Indinavir derivate HIV-1 protease inhibitors using pharmacophoric - shape similarity scoring function." Bioinformation 4(7): 295-299.
+2. Shityakov, S., et al. (2013). "Analysing molecular polar surface descriptors to predict blood-brain barrier permeation." Int J Comput Biol Drug Des 6(1-2): 146-156.
+3. Shityakov, S. and C. Forster (2014). "In silico predictive model to determine vector-mediated transport properties for the blood-brain barrier choline transporter." Adv Appl Bioinform Chem 7: 23-36.
+4. Shityakov, S., et al. (2014). "Evaluation and prediction of the HIV-1 central polypurine tract influence on foamy viral vectors to transduce dividing and growth-arrested cells." ScientificWorldJournal 2014: 487969.
+5. Shityakov, S., et al. (2021). "Scaffold Searching of FDA and EMA-Approved Drugs Identifies Lead Candidates for Drug Repurposing in Alzheimer's Disease." Front Chem 9: 736509.
+6. Fareed, M. M., et al. (2022). "In-silico analysis of non-synonymous single nucleotide polymorphisms in human beta-defensin type 1 gene reveals their impact on protein-ligand binding sites." Comput Biol Chem 98: 107669.
+7. Kovalenko, A. A., et al. (2023). "Using novel click chemistry algorithm to design D3R inhibitors as blood-brain barrier permeants." Future Med Chem 15(11): 923-935.
+8. Shityakov, S., et al. (2023). "Ergodicity Breaking and Self-Destruction of Cancer Cells by Induced Genome Chaos." Entropy (Basel) 26(1).
+9. Isakova, A. M., et al. (2024). "NeuroClick: software for mimicking click reaction to generate drug-like molecules permeating the blood-brain barrier." Future Med Chem 16(5): 389-398.
+10. Dutta, K., et al. (2024). "Analyzing the Effects of Single Nucleotide Polymorphisms on hnRNPA2/B1 Protein Stability and Function: Insights for Anticancer Therapeutic Design." ACS Omega 9(5): 5485-5495.
+11. Shityakov, S., et al. (2023). "Voronoi Entropy as a Ligand Molecular Descriptor of Protein-Ligand Interactions." ACS Omega 8(48): 46190-46196.
+12. Shityakov, S., et al. (2022). "Topological bio-scaling analysis as a universal measure of protein folding." R Soc Open Sci 9(7): 220160.
+13. Shityakov, S., et al. (2023). "Folding-unfolding asymmetry and a RetroFold computational algorithm." R Soc Open Sci 10(5): 221594.
+14. Shityakov, S., et al. (2012). "alpha-Cyclodextrin dimer complexes of dopamine and levodopa derivatives to assess drug delivery to the central nervous system: ADME and molecular docking studies." Int J Nanomedicine 7: 3211-3219.
+15. Shityakov, S. and C. Forster (2013). "Multidrug resistance protein P-gp interaction with nanoparticles (fullerenes and carbon nanotube) to assess their drug delivery potential: a theoretical molecular docking study." Int J Comput Biol Drug Des 6(4): 343-357.
+16. Tamaian, R., et al. (2023). "Exhaustive in silico design and screening of novel antipsychotic compounds with improved pharmacodynamics and blood-brain barrier permeation properties." J Biomol Struct Dyn 41(24): 14849-14870.
+17. Shityakov, S., et al. (2020). "Modeling of shotgun sequencing of DNA plasmids using experimental and theoretical approaches." BMC Bioinformatics 21(1): 132.
